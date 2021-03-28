@@ -1,7 +1,3 @@
 theme: jekyll-theme-minimal
 title: Finding Fit
 description: A small blog website for PE 1 A.Y. 2020-2021 2nd Trimester :)
-show_downloads: False
-navigation:
-  - title: Home
-    url: /
